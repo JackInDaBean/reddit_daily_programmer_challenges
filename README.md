@@ -2,7 +2,9 @@
 # Reddit Daily Programmer Challenges
 ------------------------------------
 
-These are my answers to programming challenges from the subreddit : https://www.reddit.com/r/dailyprogrammer/
+These are my answers to programming challenges from the subreddit:
+
+https://www.reddit.com/r/dailyprogrammer/
 
 ------------------------------------
 # 372 [Easy] Perfectly Balanced

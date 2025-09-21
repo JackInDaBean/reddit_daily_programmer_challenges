@@ -7,7 +7,7 @@ These are my answers to programming challenges from the subreddit:
 https://www.reddit.com/r/dailyprogrammer/
 
 ------------------------------------
-# 8 99 Bottles of Beer on the Wall
+# 8 [Easy] 99 Bottles of Beer on the Wall
 ------------------------------------
 Write a program that will print the song '99 Bottles of Beer on the Wall' - do not allow the program to print each loop on a new line.
 

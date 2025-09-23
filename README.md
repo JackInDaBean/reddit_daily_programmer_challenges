@@ -7,6 +7,13 @@ These are my answers to programming challenges from the subreddit:
 https://www.reddit.com/r/dailyprogrammer/
 
 ------------------------------------
+# 6 [Easy] Calculate Pi to 30 Decimals
+------------------------------------
+Create a program that can calculate Pi to at least 30 decimal places.
+
+https://www.reddit.com/r/dailyprogrammer/comments/pp53w/2142012_challenge_6_easy/
+
+------------------------------------
 # 8 [Easy] 99 Bottles of Beer on the Wall
 ------------------------------------
 Write a program that will print the song '99 Bottles of Beer on the Wall' - do not allow the program to print each loop on a new line.

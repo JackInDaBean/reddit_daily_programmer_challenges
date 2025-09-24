@@ -25,6 +25,7 @@ def calculate_pi():
         
         # If index number is positive then subtract the previous calculation
         elif (i % 2 == 0):
+            # Print pi_sum each iteration to show the calculation in real time - not just the result.
             pi_sum -= current_calculation
             print(pi_sum)
 
